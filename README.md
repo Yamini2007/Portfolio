@@ -1,50 +1,49 @@
 # Portfolio
-The website consists of multiple HTML pages, each with a dedicated purpose and linked through a navigation bar:
+📄 Naga Lakshmi's Portfolio Website – README
+This is a personal portfolio website created using HTML and CSS. It presents information about me, my education, projects, skills, and contact details in a clean and simple layout.
 
-1. index.html – Home Page
-  Introduction to who I am.
+🌐 Website Structure
+The website is divided into the following main HTML pages:
 
-  Hero section with a background video (for visual appeal).
+index.html – Home Page
+Features a welcome section with a background video.
 
-  Navigation links to all other pages.
+Contains navigation links to other pages.
 
-2. about.html – About Me
-  A background image with a detailed description of my personality, motivations, and goals.
+Brief intro to who I am.
 
-  Sections like Who Am I, What Drives Me, Skillset, Achievements, and Fun Fact.
+about.html – About Me
+Describes my background, passions, skills, and achievements.
 
-3. education.html – Education
-  Highlights my academic background and certifications.
+Styled with a background image.
 
-4. projects.html – Projects
-  Showcases major personal or academic projects.
+Sections like: Who Am I, What Drives Me, Skillset, Achievements, and Fun Fact.
 
-  Descriptions of each project with technologies used.
+education.html – Education
+Details about my academic background and certifications.
 
-5. contact.html – Contact
-  My email, phone number, and social links (GitHub, LinkedIn).
+projects.html – Projects
+Lists major projects I’ve worked on.
 
-   A simple contact form.
+Each project includes a short description.
 
-  Button to view/download CV.
+contact.html – Contact
+Displays email, phone number, and social media links (GitHub, LinkedIn).
 
-  Clean footer with copyright.
+Includes a simple contact form and CV download button.
 
-🛠️ Technologies Used
-  HTML5
+🛠 Technologies Used
+HTML5 – For content structure
 
-  CSS3 (Internal)
+CSS3 – For styling and layout
 
-  Responsive Design Principles
+Responsive design with media queries
 
-  Embedded media (images, video)
+Embedded images and video background
 
-📌 Features
-  Fully responsive layout
+💡 How to Use
+Download or clone the project.
 
-  Clean and modern design
+Open index.html in your browser.
 
-Background video and images
-
-Easy navigation between pages
-
+Use the navigation bar to explore other pages.
