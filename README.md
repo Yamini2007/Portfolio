@@ -5,29 +5,29 @@ This is a personal portfolio website created using HTML and CSS. It presents inf
 🌐 Website Structure
 The website is divided into the following main HTML pages:
 
-index.html – Home Page
+1.index.html – Home Page
   Features a welcome section with a background video.
 
   Contains navigation links to other pages.
 
   Brief intro to who I am.
 
-about.html – About Me
+2.about.html – About Me
   Describes my background, passions, skills, and achievements.
 
   Styled with a background image.
 
   Sections like: Who Am I, What Drives Me, Skillset, Achievements, and Fun Fact.
 
-education.html – Education
+3.education.html – Education
   Details about my academic background and certifications.
 
-  projects.html – Projects
+ 4. projects.html – Projects
   Lists major projects I’ve worked on.
 
   Each project includes a short description.
 
-contact.html – Contact
+5.contact.html – Contact
   Displays email, phone number, and social media links (GitHub, LinkedIn).
 
   Includes a simple contact form and CV download button.
