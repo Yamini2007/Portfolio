@@ -1,0 +1,57 @@
+.contact-section {
+  max-width: 600px;
+  margin: auto;
+  padding: 2rem;
+  background: white;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+form label {
+  margin-top: 1rem;
+  font-weight: bold;
+}
+
+form input, form textarea {
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+  border: 1px solid #999;
+  border-radius: 5px;
+}
+
+button {
+  margin-top: 1rem;
+  padding: 0.7rem;
+  background-color: steelblue;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.social-links {
+  margin-top: 2rem;
+}
+
+.social-links a {
+  display: inline-block;
+  margin-right: 10px;
+  text-decoration: none;
+  color: steelblue;
+  font-weight: bold;
+}
+
+.cv-button {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.7rem 1rem;
+  background-color: darkgreen;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
